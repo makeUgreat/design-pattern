@@ -11,3 +11,9 @@ mallard.quack();
 readHead.display();
 readHead.swim();
 readHead.quack();
+
+const newObj = {
+    hi: 'Hello',
+}
+
+console.log(newObj.hi)
