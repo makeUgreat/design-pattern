@@ -10,6 +10,5 @@ export abstract class Duck {
         console.log('swimming..')
     }
 
-
     public abstract display();
 }
